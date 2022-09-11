@@ -1,3 +1,4 @@
+<h2 align="center"> Hi there, I'm Ahmet Emin 👋 </h2>
 
 <p align="center"> I am a fan of programming and learning new things.</p>
 
